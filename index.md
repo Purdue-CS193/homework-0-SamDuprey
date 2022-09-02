@@ -1,3 +1,9 @@
+# Sam Duprey's First CS193 Homework
+
+- How we learn useful commands and tricks that will help with our other classes
+- How easy it is to get help with our work
+- It is a good way to meet like minded people and get help with great TA's
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
